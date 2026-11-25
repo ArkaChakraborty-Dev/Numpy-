@@ -1,0 +1,31 @@
+employee_id,name,age,gender,city,state,department,job_role,experience_years,education,employment_type,monthly_salary_inr,annual_salary_inr,joining_date,performance_rating,remote_status,email
+1001,Aarav Sharma,24.0,Male,Kolkata,West Bengal,IT,Python Developer,2,BTech,Full-time,35000.0,420000,2023-06-12,4.0,Hybrid,aarav01@example.com
+1002,Priya Das,27.0,Female,Mumbai,Maharashtra,HR,HR Executive,4,MBA,Full-time,48000.0,576000,15/03/2021,4.0,Office,priya02@example.com
+1003,Rahul Verma,29.0,Male,Bangalore,Karnataka,it,Data Analyst,5,BTech,Full-time,65000.0,780000,2020-08-20,5.0,Remote,rahul03@example.com
+1004,Ananya Roy,23.0,Female,Kolkata,West Bengal,Finance,Accountant,1,BCom,Part-time,22000.0,264000,2024-01-10,3.0,Office,ananya04@example.com
+1005,Aditya Singh,32.0,Male,Delhi,Delhi,Sales,Sales Manager,8,MBA,Full-time,85000.0,1020000,2018-05-14,4.0,Hybrid,aditya05@example.com
+1006, Sneha Gupta ,26.0,Female,Pune,Maharashtra,IT,Frontend Developer,3,BTech,Full-time,55000.0,660000,2022-11-01,4.0,Remote,sneha06@example.com
+1007,Rohan Mehta,28.0,Male,Hyderabad,Telangana,Marketing,Marketing Executive,4,MBA,Full-time,42000.0,504000,2021-04-18,3.0,Office,rohan07@example.com
+1008,Kavya Nair,25.0,Female,Chennai,Tamil Nadu,IT,Backend Developer,2,BTech,Full-time,50000.0,600000,2023-09-05,5.0,Hybrid,kavya08@example.com
+1009,Arjun Patel,35.0,Male,Ahmedabad,Gujarat,Finance,Financial Analyst,11,MCom,Full-time,95000.0,1140000,2015-07-22,5.0,Office,arjun09@example.com
+1010,Meera Iyer,30.0,Female,Chennai,Tamil Nadu,HR,HR Manager,7,MBA,Full-time,78000.0,936000,2019-02-11,4.0,Hybrid,meera10@example.com
+1011,Vikram Joshi,22.0,Male,Jaipur,Rajasthan,IT,Junior Developer,0,BCA,Intern,15000.0,180000,2025-01-15,3.0,Remote,vikram11@example.com
+1012,Ishita Bose,27.0,Female,Kolkata,West Bengal,Information Technology,Data Scientist,4,MTech,Full-time,950000.0,11400000,12-07-2021,5.0,Hybrid,ishita12@example.com
+1013,Karan Malhotra,31.0,Male,Delhi,Delhi,Sales,Business Development Manager,7,MBA,Full-time,72000.0,864000,2019/09/30,4.0,Office,karan13@example.com
+1014,Neha Kulkarni,30.0,Female, Pune ,Maharashtra,finance,Tax Consultant,3,CA,Contract,68000.0,816000,2022-04-09,4.0,Remote,neha14@example.com
+1015,Siddharth Jain,26.0,Male,Indore,Madhya Pradesh,IT,QA Engineer,3,BTech,Full-time,60000.0,600000,2021-12-01,3.0,Hybrid,siddharth15@example.com
+1016,Pooja Reddy,29.0,Female,Hyderabad,Telangana,HR,Recruiter,5,MBA,Full-time,45000.0,540000,01/06/2020,4.0,Office,pooja16@example.com
+1017,Manish Tiwari,34.0,Male,Lucknow,Uttar Pradesh,Marketing,SEO Specialist,9,BBA,Full-time,55000.0,720000,2017-03-15,3.0,Remote,manish17@example.com
+1018,Divya Menon,24.0,Female,Kochi,Kerala,IT,UI Designer,2,BDes,Full-time,40000.0,480000,2023.08.19,4.0,Hybrid,divya18@example.com
+1019,Amit Kumar,38.0,Male,Patna,Bihar,Operations,Operations Manager,14,MBA,Full-time,0.0,1260000,2014-11-08,2.0,Office,amit19@example.com
+1020,Riya Chatterjee,28.0,Female,Kolkata,West Bengal,Finance,Investment Analyst,5,CFA,Full-time,88000.0,1056000,2020-02-29,5.0,Remote,riya20@example.com
+1021,Nitin Bansal,33.0,Male,Gurgaon,Haryana,Sales,Sales Executive,8,BCom,Full-time,58000.0,696000,2018/07/04,4.0,Office,nitin21@example.com
+1022,Ayesha Khan,25.0,Female,Mumbai,Maharashtra,hr,Payroll Specialist,2,BCom,Part-time,30000.0,360000,05-10-2023,3.0,Hybrid,ayesha22@example.com
+1023,Harsh Vardhan,30.0,Male,Bangalore,Karnataka,IT,DevOps Engineer,6,BTech,Full-time,105000.0,1260000,2019-01-17,5.0,Remote,harsh23@example.com
+1007,Rohan Mehta,28.0,Male,Hyderabad,Telangana,Marketing,Marketing Executive,4,MBA,Full-time,42000.0,504000,2021-04-18,3.0,Office,rohan07@example.com
+1025,Sonal Agarwal,27.0,Female,Jaipur,Rajasthan,Marketing,Content Writer,3,BA,Contract,35000.0,420000,2022-06-30,4.0,Remote,sonal25@example.com
+1026,Rajesh Nair,41.0,Male,Chennai,Tamil Nadu,Operations,Supply Chain Lead,17,MBA,Full-time,120000.0,1440000,2009-08-11,4.0,Office,rajesh26@example.com
+1027,Tanvi Shah,23.0,Female,Ahmedabad,Gujarat,Information Technology,Support Engineer,1,BCA,Full-time,25000.0,300000,2024/02/05,3.0,Hybrid,Missing
+1028,Mohit Arora,36.0,Male,Delhi,Delhi,Finance,Finance Manager,12,CA,Full-time,150000.0,1800000,2013-05-23,5.0,Office,mohit28@example.com
+1029,Lakshmi Krishnan,29.0,Female,Chennai,Tamil Nadu,IT,Machine Learning Engineer,6,MTech,Full-time,110000.0,1320000,2020-10-10,4.0,Remote,lakshmi29@example.com
+1030,Deepak Yadav,27.0,Male,Noida,Uttar Pradesh,Sales,Sales Associate,4,BBA,Full-time,-5000.0,480000,15/01/2022,2.0,Office,deepak30@example.com
